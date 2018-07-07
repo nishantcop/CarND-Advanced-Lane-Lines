@@ -131,4 +131,4 @@ Here's a [link to my youtube video result](https://youtu.be/3c9xGMmlj1I)
 
 #### 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-My pipeline is still not working good for challange video. That will be my next step to improve it. 
+My pipeline is still not working good for challange video. My pipeline still not performing well for diverse lighting condition and when there are road sign on road itself e.g. car-pool or variable coloring on road due to roadwork. This will be my next step to improve it and drive it on challange and hard challange video. 
